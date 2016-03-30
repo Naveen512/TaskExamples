@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TaskExamples.TaskExam_2</StartupObject>
+    <StartupObject>TaskExamples.TaskExam_7</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,11 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TaskExam_2.cs" />
+    <Compile Include="TaskExam_3.cs" />
+    <Compile Include="TaskExam_4.cs" />
+    <Compile Include="TaskExam_5.cs" />
+    <Compile Include="TaskExam_6.cs" />
+    <Compile Include="TaskExam_7.cs" />
     <Compile Include="TaskExa_1.cs" />
   </ItemGroup>
   <ItemGroup>
